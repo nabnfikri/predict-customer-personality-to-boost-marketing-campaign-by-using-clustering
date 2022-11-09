@@ -1,1 +1,2 @@
 # predict-customer-personality-to-boost-marketing-campaign-by-using-clustering
+Here I act as a Data Scientist in a company and was given the responsibility to process historical marketing campaign data to increase performance and target the right customers so that they can transact on the company's platform. Here I will process data, clean data, create machine learning models, and draw conclusions and business insights that can be recommended regarding the ongoing marketing campaign.
